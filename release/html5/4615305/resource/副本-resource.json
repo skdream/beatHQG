@@ -1,0 +1,35 @@
+{
+	"resources": [
+		{
+			"name": "bgImage",
+			"type": "image",
+			"url": "assets/bg.jpg"
+		},
+		{
+			"name": "egretIcon",
+			"type": "image",
+			"url": "assets/egret_icon.png"
+		},
+		{
+			"name": "panda",
+			"type": "image",
+			"url": "assets/panda.png"
+		},
+		{
+			"name": "panda_action",
+			"type": "xml",
+			"url": "config/panda.xml"
+		}
+		{
+			"name": "description",
+			"type": "json",
+			"url": "config/description.json"
+		}
+	],
+	"groups": [
+		{
+			"name": "preload",
+			"keys": "bgImage,egretIcon"
+		}
+	]
+}

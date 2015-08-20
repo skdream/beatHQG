@@ -1,0 +1,80 @@
+{
+	"resources": [
+		{
+			"name": "bgImage",
+			"type": "image",
+			"url": "assets/bg.jpg"
+		},
+		{
+			"name": "egretIcon",
+			"type": "image",
+			"url": "assets/egret_icon.png"
+		},
+		{
+			"name": "panda",
+			"type": "image",
+			"url": "assets/panda.png"
+		},
+		{
+			"name": "panda_json",
+			"type": "json",
+			"url": "assets/panda.json"
+		},
+		{
+			"name": "huaqiangu",
+			"type": "image",
+			"url": "assets/huaqiangu.png"
+		},
+		{
+			"name": "huaqiangu_json",
+			"type": "json",
+			"url": "assets/huaqiangu.json"
+		},
+		{
+			"name": "hua",
+			"type": "image",
+			"url": "assets/hua.png"
+		},
+		{
+			"name": "hua_json",
+			"type": "json",
+			"url": "assets/hua.json"
+		},
+		{
+			"name": "stageBg",
+			"type": "image",
+			"url": "assets/stagebg.jpg"
+		},
+		{
+			"name": "avatar",
+			"type": "image",
+			"url": "assets/avatar.png"
+		},
+		{
+			"name": "blood",
+			"type": "image",
+			"url": "assets/blood_space.png"
+		},
+		{
+			"name": "diamond",
+			"type": "image",
+			"url": "assets/diamond.png"
+		},
+		{
+			"name": "down",
+			"type": "image",
+			"url": "assets/-1.png"
+		},
+		{
+			"name": "pa_mp3",
+			"type": "sound",
+			"url": "assets/pa.mp3"
+		}
+	],
+	"groups": [
+		{
+			"name": "preload",
+			"keys": "bgImage,pa_mp3,huaqiangu_json,huaqiangu,panda,panda_json,hua,hua_json,stageBg,blood,avatar,diamond,down"
+		}
+	]
+}

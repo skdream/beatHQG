@@ -1,0 +1,31 @@
+﻿{
+"mc": {
+	"panda": {
+		"frameRate":24,
+		"labels": [
+			{"name":"start","frame":1},
+			{"name":"end","frame":15}
+		],
+		"frames": [
+			{"res":"panda0000","x":0,"y":0,"duration":2},
+			{"res":"panda0002","x":0,"y":0,"duration":2},
+			{"res":"panda0004","x":0,"y":0,"duration":2},
+			{"res":"panda0006","x":0,"y":0,"duration":2},
+			{"res":"panda0008","x":0,"y":0,"duration":2},
+			{"res":"panda0010","x":0,"y":0,"duration":2},
+			{"res":"panda0012","x":0,"y":0,"duration":2},
+			{"res":"panda0014","x":0,"y":0}
+		]
+	}
+},
+"res": {
+	"panda0000":{"x":0,"y":0,"w":320,"h":453},
+	"panda0002":{"x":320,"y":0,"w":320,"h":453},
+	"panda0004":{"x":640,"y":0,"w":320,"h":453},
+	"panda0006":{"x":0,"y":453,"w":320,"h":453},
+	"panda0008":{"x":320,"y":453,"w":320,"h":453},
+	"panda0010":{"x":640,"y":453,"w":320,"h":453},
+	"panda0012":{"x":0,"y":906,"w":320,"h":453},
+	"panda0014":{"x":0,"y":0,"w":320,"h":453}
+}
+}

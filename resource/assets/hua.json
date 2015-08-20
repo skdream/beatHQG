@@ -1,0 +1,48 @@
+﻿{
+"mc": {
+	"hua-eye": {
+		"frameRate":24,
+		"labels": [
+		],
+		"frames": [
+			{"res":"hua-eye0000","x":0,"y":0,"duration":2},
+			{"res":"hua-eye0002","x":0,"y":0,"duration":2}
+		]
+	},
+	"hua-mouth": {
+		"frameRate":24,
+		"labels": [
+		],
+		"frames": [
+			{"res":"hua-mouth0000","x":0,"y":0,"duration":2},
+			{"res":"hua-mouth0002","x":0,"y":0,"duration":2}
+		]
+	},
+	"hua-normal": {
+		"frameRate":24,
+		"labels": [
+		],
+		"frames": [
+			{"res":"hua-normal0000","x":0,"y":0}
+		]
+	},
+	"hua-nose": {
+		"frameRate":24,
+		"labels": [
+		],
+		"frames": [
+			{"res":"hua-nose0000","x":0,"y":0,"duration":2},
+			{"res":"hua-nose0002","x":0,"y":0,"duration":2}
+		]
+	}
+},
+"res": {
+	"hua-eye0000":{"x":0,"y":0,"w":400,"h":566},
+	"hua-eye0002":{"x":400,"y":0,"w":400,"h":566},
+	"hua-mouth0000":{"x":800,"y":0,"w":400,"h":566},
+	"hua-mouth0002":{"x":1200,"y":0,"w":400,"h":566},
+	"hua-normal0000":{"x":1600,"y":0,"w":400,"h":566},
+	"hua-nose0000":{"x":0,"y":566,"w":400,"h":566},
+	"hua-nose0002":{"x":400,"y":566,"w":400,"h":566}
+}
+}

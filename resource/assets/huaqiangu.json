@@ -1,0 +1,25 @@
+{
+"mc": {
+	"huaqiangu": {
+		"frameRate":20,
+		"labels": [
+		],
+		"frames": [
+			{"res":"huaqiangu0000","x":0,"y":0,"duration":1},
+			{"res":"huaqiangu0002","x":0,"y":0,"duration":1},
+			{"res":"huaqiangu0004","x":0,"y":0,"duration":1},
+			{"res":"huaqiangu0006","x":0,"y":0,"duration":1},
+			{"res":"huaqiangu0008","x":0,"y":0,"duration":1},
+			{"res":"huaqiangu00010","x":0,"y":0}
+		]
+	}
+},
+"res": {
+	"huaqiangu0000":{"x":0,"y":0,"w":750,"h":1061},
+	"huaqiangu0002":{"x":750,"y":0,"w":750,"h":1061},
+	"huaqiangu0004":{"x":0,"y":0,"w":750,"h":1061},
+	"huaqiangu0006":{"x":0,"y":0,"w":750,"h":1061},
+	"huaqiangu0008":{"x":750,"y":0,"w":750,"h":1061},
+	"huaqiangu00010":{"x":0,"y":0,"w":750,"h":1061}
+}
+}

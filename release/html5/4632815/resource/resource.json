@@ -1,0 +1,45 @@
+{
+	"resources": [
+		{
+			"name": "bgImage",
+			"type": "image",
+			"url": "assets/bg.jpg"
+		},
+		{
+			"name": "egretIcon",
+			"type": "image",
+			"url": "assets/egret_icon.png"
+		},
+		{
+			"name": "panda",
+			"type": "image",
+			"url": "assets/panda.png"
+		},
+		{
+			"name": "panda_json",
+			"type": "json",
+			"url": "assets/panda.json"
+		},
+		{
+			"name": "huaqiangu",
+			"type": "image",
+			"url": "assets/huaqiangu.png"
+		},
+		{
+			"name": "huaqiangu_json",
+			"type": "bin",
+			"url": "assets/huaqiangu.json"
+		},
+		{
+			"name": "description",
+			"type": "json",
+			"url": "config/description.json"
+		}
+	],
+	"groups": [
+		{
+			"name": "preload",
+			"keys": "bgImage,egretIcon,huaqiangu_json,huaqiangu,panda,panda_json"
+		}
+	]
+}
